@@ -1,0 +1,18 @@
+.navbar{
+    /* background-image: linear-gradient(to right,#a517ba,#5f1782); */
+}
+
+.cov-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+@media only screen and (min-width:600px){
+    .navbar-brand{
+        padding-left: 5rem;
+    }
+    .navbar-nav{
+        padding-right: 3rem;
+    }
+}
