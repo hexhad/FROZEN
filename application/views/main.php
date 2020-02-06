@@ -47,9 +47,14 @@
         <div class="col-md-6">
           <img src="src/frozen.png" style="height: 120px;margin-top: 60px;">
             <p class="cov-title">FROZEN</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum praesentium in 
-            nobis optio labore repellendus dicta voluptatum corrupti aliquid
-            itaque magni animi, temporibus a consequuntur doloribus delectus sunt! Voluptate, ratione!
+            <p><b style="font-size:20px">DOWN SOUTH'S FIRST ROLLED ICE CREAMERY</b><br>
+              We are an innovative ice cream shop which serves
+              fresh made-to-order ice cream KOTTU. Our process will
+              change the way that you think about ice cream. Fresh
+              ingredients are blended and rapidly frozen before your eyes.
+              Your customized ice cream is ready in just seconds. Each KOTTU 
+              of ice cream is a unique creation to please each customer taste. <br>
+              we are reinventing the ultimate ice cream expreence..!
             </p>
             <br>
             <div class="btn-row">
