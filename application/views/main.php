@@ -4,7 +4,7 @@
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>FROZEN</title>
-    <link rel="icon" href="src/frozen.jpg">
+    <link rel="icon" href="src/frozenx700.png">
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <script src='jquery/jquery-3.4.1.min.js'></script>
     <script src='bootstrap/js/bootstrap.min.js'></script>
@@ -45,7 +45,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img src="src/frozen.jpg" style="height: 120px;margin-top: 60px;">
+          <img src="src/frozen.png" style="height: 120px;margin-top: 60px;">
             <p class="cov-title">FROZEN</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum praesentium in 
             nobis optio labore repellendus dicta voluptatum corrupti aliquid
