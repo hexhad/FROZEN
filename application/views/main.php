@@ -58,9 +58,11 @@
             </p>
             <br>
             <div class="btn-row">
-              <a href="#" class="btn">LogIn<span class="btn-span to-right"></span></a>
-              <a href="#" class="btn" style="background-color:#8abaae">SignUp<span class="btn-span to-right"></span></a>
+              <a href="#" class="btn">Join With Us<span class="btn-span to-right"></span></a>
+              <a href="#" class="btn" style="background-color:#8abaae;">LogIn<span class="btn-span to-right"></span></a>              
+              <input type="text" class="input-text">
             </div>
+            
         </div>
         <div class="col-md-6">
           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
