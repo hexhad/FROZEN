@@ -46,8 +46,13 @@
 
         <div class="col-md-6 rect-curv-sign" >
             <!-- <div class="rect-curv" style="border-bottom-left-radius: 0%;border-top-left-radius: 25px; right: 0px;"></div>  -->
-            <div class="" style="padding-top: 4rem;padding-bottom: 4rem;padding-left: 20%;">
+            <div class="" style="padding-top: 4rem;padding-bottom: 3rem;padding-left: 20%;">
                 <table>
+                  <td>
+                    <tr>
+                        <h3>Login</h3>
+                    </tr>
+                </td>
                     <td>
                         <tr>
                             <div class="btn-row-sign">            
@@ -69,6 +74,11 @@
                             </div>
                         </tr>
                     </td>
+                    <td>
+                      <tr>
+                          <a href="#" class="h-link"><p style="padding-top: 20px;text-align: right;padding-right: 50px;">Forget Password</p></a>
+                      </tr>
+                  </td>
                 </table>  
             </div>
         </div>

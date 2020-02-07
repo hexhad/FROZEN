@@ -73,6 +73,9 @@ body{
     top:20px;
 
 }
+.btn-color-low-opa{
+    background-color: #2e856e4b;
+}
 
 .btn-row .btn{
     width: 120px;
@@ -113,12 +116,20 @@ body{
     height: 50px;
 }
 
+.to-right-b{
+    width: 0px;
+    height: 50px;
+}
+
 .btn-row .btn:hover .to-right {
     width: 120px;
     transition: 0.8s;
 }
 
-
+.btn-row .btn:hover .to-right-b {
+    width: 200px;
+    transition: 0.8s;
+}
 
 @media only screen and (min-width:600px){
     .navbar-brand{
@@ -135,4 +146,13 @@ body{
         opacity: 0%;
     }
 
+}
+
+.h-link{
+    text-decoration: none;
+}
+
+.h-link:hover{
+    color: green;
+    text-decoration: none;
 }

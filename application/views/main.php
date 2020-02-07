@@ -58,9 +58,10 @@
             </p>
             <br>
             <div class="btn-row">
-              <a href="#" class="btn">Join With Us<span class="btn-span to-right"></span></a>
-              <a href="#" class="btn" style="background-color:#8abaae;">LogIn<span class="btn-span to-right"></span></a>              
-              <input type="text" class="input-text">
+              <a href="#" class="btn btn-color-low-opa" >Join With Us<span class="btn-span to-right"></span></a>
+              <a href="<?= base_url('frozen/load_login');?>" class="btn" >LogIn<span class="btn-span to-right"></span></a>  
+              <a href="#" class="btn" style="width:200px;">Visit the Store<span class="btn-span to-right-b"></span></a>            
+              <!-- <input type="text" class="input-text"> -->
             </div>
             
         </div>
