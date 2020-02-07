@@ -3,7 +3,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>FROZEN</title>
+    <title>FROZEN - Welcome to the Frozen Kottu</title>
     <link rel="icon" href="src/frozenx700.png">
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <script src='jquery/jquery-3.4.1.min.js'></script>
@@ -25,7 +25,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link wht-blk" href="temp.html" >Ice Cream Home</a>
+              <a class="nav-link wht-blk" href="" >Ice Cream Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link wht-blk" href="#">Store</a>
@@ -58,7 +58,7 @@
             </p>
             <br>
             <div class="btn-row">
-              <a href="#" class="btn btn-color-low-opa" >Join With Us<span class="btn-span to-right"></span></a>
+              <a href="<?= base_url('frozen/load_newuser');?>" class="btn btn-color-low-opa" >Join With Us<span class="btn-span to-right"></span></a>
               <a href="<?= base_url('frozen/load_login');?>" class="btn" >LogIn<span class="btn-span to-right"></span></a>  
               <a href="#" class="btn" style="width:200px;">Visit the Store<span class="btn-span to-right-b"></span></a>            
               <!-- <input type="text" class="input-text"> -->

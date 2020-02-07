@@ -50,7 +50,7 @@
                 <table>
                   <td>
                     <tr>
-                        <h3>Login</h3>
+                        <h3>Join with Us</h3>
                     </tr>
                 </td>
                     <td>
@@ -63,7 +63,21 @@
                     <td>
                         <tr>
                             <div class="btn-row-sign" style="margin-top: 0.5rem;">            
+                                <input type="text" class="input-text" placeholder="email" >
+                            </div>
+                        </tr>
+                    </td>
+                    <td>
+                        <tr>
+                            <div class="btn-row-sign" style="margin-top: 0.5rem;">            
                                 <input type="password" class="input-text" placeholder="Password" >
+                            </div>
+                        </tr>
+                    </td>                    
+                    <td>
+                        <tr>
+                            <div class="btn-row-sign" style="margin-top: 0.5rem;">            
+                                <input type="password" class="input-text" placeholder="Re enter Password" >
                             </div>
                         </tr>
                     </td>
@@ -74,11 +88,7 @@
                             </div>
                         </tr>
                     </td>
-                    <td>
-                      <tr>
-                          <a href="#" class="h-link"><p style="padding-top: 20px;text-align: right;padding-right: 50px;">Forget Password</p></a>
-                      </tr>
-                  </td>
+
                 </table>  
             </div>
         </div>
