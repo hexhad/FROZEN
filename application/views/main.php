@@ -25,10 +25,10 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link wht-blk" href="" >Ice Cream Home</a>
+              <a class="nav-link wht-blk" href="#" >Ice Cream Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link wht-blk" href="#">Store</a>
+              <a class="nav-link wht-blk" href="<?= base_url('frozen/load_store');?>">Store</a>
             </li>
             <li class="nav-item">
               <a class="nav-link wht-blk" href="#">About Us</a>
@@ -60,7 +60,7 @@
             <div class="btn-row">
               <a href="<?= base_url('frozen/load_newuser');?>" class="btn btn-color-low-opa" >Join With Us<span class="btn-span to-right"></span></a>
               <a href="<?= base_url('frozen/load_login');?>" class="btn" >LogIn<span class="btn-span to-right"></span></a>  
-              <a href="#" class="btn" style="width:200px;">Visit the Store<span class="btn-span to-right-b"></span></a>            
+              <a href="<?= base_url('frozen/load_store');?>" class="btn" style="width:200px;">Visit the Store<span class="btn-span to-right-b"></span></a>            
               <!-- <input type="text" class="input-text"> -->
             </div>
             

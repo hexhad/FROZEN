@@ -13,22 +13,22 @@
     <link rel='stylesheet' type='text/css' media='screen' href='css/style.css'>
 </head>
 <body>
-
+<div class="rect-curv"></div>
     <!-- navigation -->
     <nav class="navbar navbar-expand-lg navbar-light ">
-        <a class="navbar-brand" href="#">
-          <!-- <img src="src/frozen.jpg" style="height: 30px;"> -->
+        <a class="navbar-brand" href="<?= base_url('frozen');?>">
+        <img src="src/frozen.jpg" style="height: 30px;"><p class="navbar-text" style="padding-left:7px">Frozen</p>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link wht-blk" href="temp.html" >Ice Cream Home</a>
+            <li class="nav-item ">
+              <a class="nav-link wht-blk" href="<?= base_url('frozen');?>" >Ice Cream Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link wht-blk" href="#">Store</a>
+              <a class="nav-link wht-blk" href="<?= base_url('frozen/load_store');?>">Store</a>
             </li>
             <li class="nav-item">
               <a class="nav-link wht-blk" href="#">About Us</a>
@@ -70,7 +70,7 @@
                     <td>
                         <tr>
                             <div class="btn-row" style="margin-top: 0.5rem;">
-                                <a href="<?= base_url('frozen/index');?>" class="btn">Login<span class="btn-span to-right"></span></a>
+                                <a href="<?= base_url('frozen/load_admin');?>" class="btn">Login<span class="btn-span to-right"></span></a>
                             </div>
                         </tr>
                     </td>

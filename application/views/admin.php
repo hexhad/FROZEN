@@ -3,7 +3,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>FROZEN</title>
+    <title>FROZEN - Admin</title>
     <link rel="icon" href="src/frozenx700.png">
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <script src='jquery/jquery-3.4.1.min.js'></script>
@@ -44,7 +44,7 @@
   <!-- mid content -->
   <div class="container">
     <div class="row" >
-      <div class="col-md-3 "  style="padding-top: 1rem;background-color: ">
+      <div class="col-md-3 " style="padding-top: 1rem;background-color: ">
         <div class="row">
           <table>
             <tr>
@@ -104,32 +104,22 @@
           <thead style="background-color: rgba(119, 136, 153, 0.384);">
             <td>head</td>
             <td>head</td>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
             
+            <td>State</td>
           </thead>
+
+          <?php foreach ($results as $result):?>
+              
           <tr>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
+            <td><?= $result->product_name; ?></td>
+            <td><?= $result->Price; ?></td>
+            <td>
+                <a href="#" class="btn btn-primary">Edit</a>
+                <a href="#" class="btn btn-danger">Delete</a>
+            </td>
           </tr>
-          <tr>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
-          </tr>
-          <tr>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
-          </tr>
+          <?php endforeach;?>
+          
         </table>
 
       </div>     
