@@ -111,7 +111,7 @@
           <?php foreach ($results as $result):?>
               
           <tr>
-            <td><?= $result->product_name; ?></td>
+            <td><?= $result->Product_name; ?></td>
             <td><?= $result->Price; ?></td>
             <td>
                 <a href="#" class="btn btn-primary">Edit</a>
