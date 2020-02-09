@@ -22,4 +22,8 @@ class Frozen extends CI_Controller {
 		$results = $this->frozen_model->view_all_records() ;
 		$this->load->view('admin',['results' => $results]);
 	}
+
+	public function load_cart(){
+		$this->load->view('cart');
+	}
 }
