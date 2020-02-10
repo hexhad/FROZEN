@@ -3,7 +3,8 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>FROZEN</title>
+    <title>FROZEN - Store</title>
+    <link rel="icon" href="src/frozenx700.png">
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <script src='jquery/jquery-3.4.1.min.js'></script>
     <script src='bootstrap/js/bootstrap.min.js'></script>
@@ -81,8 +82,6 @@
         </div>
       </div>
       <?php endforeach;?>
-      
-    
   </div>
 </body>
 </html>
