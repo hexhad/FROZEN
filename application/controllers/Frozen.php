@@ -26,4 +26,8 @@ class Frozen extends CI_Controller {
 	public function load_cart(){
 		$this->load->view('cart');
 	}
+    
+    public function customize(){
+        $this->load->view('customize');
+    }
 }

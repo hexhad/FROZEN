@@ -31,6 +31,9 @@
               <a class="nav-link wht-blk" href="<?= base_url('frozen/load_store');?>">Store</a>
             </li>
             <li class="nav-item">
+            <a class="nav-link wht-blk" href="<?= base_url('frozen/customize');?>">Custermize</a>
+          </li>
+            <li class="nav-item">
               <a class="nav-link wht-blk" href="#">About Us</a>
             </li>
             <li class="nav-item">

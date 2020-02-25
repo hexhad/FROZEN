@@ -1,0 +1,17 @@
+<script src="dist/sweetalert.min.js"></script>
+<link rel="stylesheet" type="text/css" href="dist/sweetalert.css">
+
+
+swal("Good job!", "You clicked the button!", "success")
+
+swal({
+  title: "Auto close alert!",
+  text: "I will close in 2 seconds.",
+  timer: 2000,
+  showConfirmButton: false
+});
+
+
+sweetAlert("Oops...", "Something went wrong!", "error");
+
+swal("Here's a message!");
