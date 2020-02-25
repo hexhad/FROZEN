@@ -26,16 +26,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link wht-blk" href="#" >Task</a>
+            <a class="nav-link wht-blk" href="#" >Show Data</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link wht-blk" href="#">Task</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link wht-blk" href="#">Task</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link wht-blk" href="#">Task</a>
+            <a class="nav-link wht-blk" href="#">Genarate Table</a>
           </li>
         </ul>
       </div>
@@ -50,52 +44,18 @@
             <tr>
               <td>
                 <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Task<span class="btn-span to-right"></span></a>
+                  <a href="#" class="btn">Show All Data<span class="btn-span to-right"></span></a>
                 </div>
               </td>
             </tr>
             <tr>
               <td>
                 <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Task<span class="btn-span to-right"></span></a>
+                  <a href="#" class="btn">Generate Graph<span class="btn-span to-right"></span></a>
                 </div>
               </td>
             </tr>
-            <tr>
-              <td>
-                <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Task<span class="btn-span to-right"></span></a>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Task<span class="btn-span to-right"></span></a>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Task<span class="btn-span to-right"></span></a>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Task<span class="btn-span to-right"></span></a>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Task<span class="btn-span to-right"></span></a>
-                </div>
-              </td>
-            </tr>
+            
           </table>
         </div>
       </div> 
