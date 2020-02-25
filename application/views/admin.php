@@ -44,14 +44,14 @@
             <tr>
               <td>
                 <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Show All Data<span class="btn-span to-right"></span></a>
+                  <a href="#" class="btn">Show All<span class="btn-span to-right"></span></a>
                 </div>
               </td>
             </tr>
             <tr>
               <td>
                 <div class="btn-row" style="margin-top: 0.5rem;">
-                  <a href="#" class="btn">Generate Graph<span class="btn-span to-right"></span></a>
+                  <a href="#" class="btn">Graph<span class="btn-span to-right"></span></a>
                 </div>
               </td>
             </tr>
