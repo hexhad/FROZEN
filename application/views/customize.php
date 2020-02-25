@@ -64,7 +64,7 @@
     
 
     <!-- BREADCRUMB -->
-	<div id="breadcrumb">
+	<div id="breadcrumb" style="">
 		
 	</div>
 	<!-- /BREADCRUMB -->
@@ -361,7 +361,7 @@
 
 							<p><strong>Availability:</strong> Not in Stock </p>
 							
-							<p>Uses cookies to remember your preferences, even if you don’t visit those pages</p>
+							<p></p>
 							<div class="product-options">
 								
 								
