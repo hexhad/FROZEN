@@ -57,7 +57,7 @@
               ingredients are blended and rapidly frozen before your eyes.
               Your customized ice cream is ready in just seconds. Each KOTTU 
               of ice cream is a unique creation to please each customer taste. <br>
-              we are reinventing the ultimate ice cream expreence..!
+              we are reinventing the ultimate ice cream experience..!
             </p>
             <br>
             <div class="btn-row">
@@ -75,21 +75,21 @@
                 <img class="d-block w-100" src="src/latest_product/slide1.png" alt="First slide">
                 <div class="carousel-caption">
                   <h3 class="slider-cap">&#9733 &#9733 &#9733 &#9733 &#9733 &#9733 </h3>
-                  <p class="slider-cap">Best Ice Cream in the Valley,, Perfect</p>
+                  <p class="slider-cap">Best Ice Cream in the Valley, Perfect</p>
                 </div>
               </div>
               <div class="carousel-item">
-                <img class="d-block w-100" src="src/latest_product/slide1.png" alt="Second slide">
+                <img class="d-block w-100" src="src/latest_product/slide2.png" alt="Second slide">
                 <div class="carousel-caption">
                   <h3 class="slider-cap">&#9733 &#9733 &#9733 &#9733 &#9733 &#9733 </h3>
-                  <p class="slider-cap">Best Ice Cream in the Valley,, Perfect</p>
+                  <p class="slider-cap">Best Ice Cream in the Valley, Perfect</p>
                 </div>
               </div>
               <div class="carousel-item">
-                <img class="d-block w-100" src="src/latest_product/slide1.png" alt="Third slide">
+                <img class="d-block w-100" src="src/latest_product/slide3.png" alt="Third slide">
                 <div class="carousel-caption">
                   <h3 class="slider-cap">&#9733 &#9733 &#9733 &#9733 &#9733 &#9733 </h3>
-                  <p class="slider-cap">Best Ice Cream in the Valley,, Perfect</p>
+                  <p class="slider-cap">Best Ice Cream in the Valley, Perfect</p>
                 </div>
               </div>
             </div>
